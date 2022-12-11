@@ -4,11 +4,11 @@ This repository includes several datasets with information regarding the United 
 
 |type|filename|
 |----------|-----------------------------------------------------------|
-|revenue   |un_system_total_revenues_2010_2020.csv|
-|revenue   |un_system_revenue_by_entity_2010_2020.csv|
-|revenue   |un_system_revenues_by_fin_instrument_2010_2020.csv|
-|revenue   |un_system_revenues_by_government_donor_2010_2020.csv|
-|revenue   |un_system_revenues_by_non_government_donor_2010_2020.csv|
+|revenues   |un_system_total_revenues_2010_2020.csv|
+|revenues   |un_system_revenues_by_entity_2010_2020.csv|
+|revenues   |un_system_revenues_by_fin_instrument_2010_2020.csv|
+|revenues   |un_system_revenues_by_government_donor_2010_2020.csv|
+|revenues   |un_system_revenues_by_non_government_donor_2010_2020.csv|
 |expenses  |un_system_total_expenses_2010_2020.csv|
 |expenses  |un_system_expenses_by_function_2010_2020.csv|
 |expenses  |un_system_expenses_by_geo_location_2010_2020.csv|
